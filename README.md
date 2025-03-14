@@ -4,7 +4,9 @@
 # Background
 - Road accidents remain a significant public safety concern, leading to injuries, fatalities, and economic losses. Understanding the patterns and causes of these accidents is crucial for improving road safety measures and reducing accident rates. This project aims to analyze road accident data using SQL for data exploration & manipulation, and Tableau for visualization. By exploring factors such as accident frequency, weather conditions, road surfaces, vehicle types, and speed limits, this analysis provides valuable insights into accident trends. The goal is to help policymakers, urban planners, and transportation authorities make data-driven decisions to enhance road safety and minimize risks for drivers and pedestrians.
 
-#Exploratory Data Analysis
+---
+
+### Exploratory Data Analysis###
 ## 1. What happened?
 ![image](https://github.com/user-attachments/assets/39e6245f-7f33-41d7-b006-f457630a459f)
 - The data shows that there are over 300k total accidents in the United Kingdom, affecting more than 400k victims. This raises concerns about whether the accidents occur due to road conditions, weather conditions, road type, or other factors.
