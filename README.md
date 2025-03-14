@@ -6,7 +6,7 @@
 
 ---
 
-### Exploratory Data Analysis###
+### Exploratory Data Analysis
 ## 1. What happened?
 ![image](https://github.com/user-attachments/assets/39e6245f-7f33-41d7-b006-f457630a459f)
 - The data shows that there are over 300k total accidents in the United Kingdom, affecting more than 400k victims. This raises concerns about whether the accidents occur due to road conditions, weather conditions, road type, or other factors.
