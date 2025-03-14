@@ -18,6 +18,7 @@
 
 ## 3. Is there a relationship between weather conditions and accidents that occur?
 ![image](https://github.com/user-attachments/assets/1a7d7126-a771-49b7-9f1d-14f54c47d3c8)
+![image](https://github.com/user-attachments/assets/b3ba859d-20ad-4553-bd41-fdc2da9da78a)
 - Despite seasonal variations, accidents predominantly occur under normal weather conditions. This suggests that weather is not a primary factor influencing accident frequency.
 
 ## 4. How about the road surface conditions?
